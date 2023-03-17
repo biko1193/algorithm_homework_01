@@ -13,4 +13,5 @@ This example project is written in Python, and tested with pytest.
 
 ### Result ###
 `pytest hello_test.py`의 assert 조건을 `Hello World!`의 출력으로 설정했고 실행 시 무사히 테스트에 통과되는 것을 볼 수 있다.
+
 따라서 hello_world()함수는 `Hello World`를 출력하는 것을 알 수 있다.
